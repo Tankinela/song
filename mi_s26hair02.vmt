@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dbd/survivornbs/26jill_valentine/T_S26Hair02_BC"
+	"$bumpmap" "models/dbd/survivornbs/shared/T_CMMHair000_N"
+	"$alphatest" 1
+	"$alphatestreference" 0.5
+	"$allowalphatocoverage" 1
+	"$nocull" 1
+
+	"$phong" "1"
+	"$phongexponent" "100"
+	"$phongboost" "0.025"
+	"$phongfresnelranges"	"[1 5 60]"
+	"$halflambert" "1"
+
+	//"$rimlight" "1"
+	//"$rimlightexponent" "2"
+	//"$rimlightboost" "0.2"
+}

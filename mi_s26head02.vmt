@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dbd/survivornbs/26jill_valentine/T_S26Head02_00_BC"
+	"$bumpmap" "models/dbd/survivornbs/26jill_valentine/T_S26Head02_00_N"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "0.05"	
+	"$phongfresnelranges"	"[1 5 60]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "2"
+	"$rimlightboost" "0.2"
+}
